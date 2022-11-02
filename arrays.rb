@@ -22,3 +22,6 @@ print bools
 #Index positions are the positions of each element in the array, starting with
 #0 and counting upwards. For example, in the ints array I created, the element 1
 #was in position 0.
+
+#.at is a method that retrives an array element using its index number.
+# For example strings.at(0) would return "one". 
